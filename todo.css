@@ -1,0 +1,12 @@
+body{
+    background-color: #A49BD2;
+}
+.rectangle{
+    padding-top: 30px;
+    background-image: url("assests/Frame 481720g.png");
+    background-size: cover;
+    background-color: aliceblue;
+    height: 550px;
+    width:900px;
+    border-radius: 50px;
+}
