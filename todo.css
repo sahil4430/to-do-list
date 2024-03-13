@@ -58,3 +58,10 @@ body{
     font-weight: 500;
     border: none;
 }
+ul{list-style: none;
+
+    
+}
+li{text-align: center;
+    color: #63D1D4;
+}
