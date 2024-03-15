@@ -60,10 +60,16 @@ body{
 }
 ul{list-style: none;
 }
-li{text-align: center;
+li{text-align: left;
     color: #63D1D4;
+    font-size: large;
+    background-color: azure;
+    border-radius: 12;
+    height: 50px;
+    width: 300;
 }
-
-li{text-align: center;
-    color: #63D1D4;
+.delete{
+    height: 30px;
+    width: 30px;
+    margin: 0;
 }
