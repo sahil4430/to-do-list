@@ -25,8 +25,5 @@ ul.addEventListener("click",function(event){
 //     "click",function(){
 //       let item= document.createElement("li");
 //       item.innerText= input.Value;
-//       console.log(input.Value)
-      
-//     }
+//       console.log(input.Value)}
 //     // 👨🏼‍🦳👩🏼‍🦳 acha nhi hai complete kro 
-// )
